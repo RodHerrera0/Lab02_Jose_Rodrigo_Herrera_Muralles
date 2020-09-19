@@ -1,0 +1,11 @@
+﻿  Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619.cpp
+C:\Users\herre\source\repos\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619.cpp(18,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\herre\source\repos\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619.cpp(25,18): warning C4804:  '<=': unsafe use of type 'bool' in operation
+C:\Users\herre\source\repos\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619.cpp(31,18): warning C4804:  '<=': unsafe use of type 'bool' in operation
+C:\Users\herre\source\repos\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619.cpp(43,19): warning C4804:  '<=': unsafe use of type 'bool' in operation
+C:\Users\herre\source\repos\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619.cpp(50,18): warning C4804:  '<=': unsafe use of type 'bool' in operation
+C:\Users\herre\source\repos\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619.cpp(56,18): warning C4804:  '<=': unsafe use of type 'bool' in operation
+C:\Users\herre\source\repos\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619.cpp(74,18): warning C4804:  '<=': unsafe use of type 'bool' in operation
+C:\Users\herre\source\repos\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619.cpp(80,19): warning C4804:  '<=': unsafe use of type 'bool' in operation
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619.vcxproj -> C:\Users\herre\source\repos\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619\Debug\Lab02_Jose_Rodrigo_HHerrera_Muralles_1042619.exe
